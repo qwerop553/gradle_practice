@@ -7,6 +7,6 @@
 
 종속성 관리란(Dependency management) 프로젝트에 필요한 외부자원들을 효과적으로 관리하는 것임.
 
-<img src="../image/dependency-management-resolution.png alt="GRAPHS"></img>
+<img src="/image/dependency-management-resolution.png alt="GRAPHS"></img>
 
 
